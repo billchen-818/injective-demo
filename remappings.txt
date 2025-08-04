@@ -1,0 +1,12 @@
+@layerzerolabs/lz-evm-protocol-v2/=lib/solidity-contracts/lib/layerzero-v2/packages/layerzero-v2/evm/protocol/
+@layerzerolabs/oapp-evm/=lib/solidity-contracts/lib/devtools/packages/oapp-evm/
+@layerzerolabs/oft-evm/=lib/solidity-contracts/lib/devtools/packages/oft-evm/
+@openzeppelin/contracts/=lib/solidity-contracts/lib/openzeppelin-contracts/contracts/
+devtools/=lib/solidity-contracts/lib/devtools/packages/toolbox-foundry/src/
+ds-test/=lib/solidity-contracts/lib/layerzero-v2/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/solidity-contracts/lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+halmos-cheatcodes/=lib/solidity-contracts/lib/openzeppelin-contracts/lib/halmos-cheatcodes/src/
+layerzero-v2/=/Users/chenmx/src/
+openzeppelin-contracts/=lib/solidity-contracts/lib/openzeppelin-contracts/
+solidity-contracts/=lib/solidity-contracts/
