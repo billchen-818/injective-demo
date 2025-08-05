@@ -79,3 +79,7 @@ cast send --rpc-url https://k8s.testnet.json-rpc.injective.network --private-key
 ```
 
 这里的orderhash就是上一步的交易hash.
+
+### 交易截图
+
+![交易截图](./img/transferlist.png)
